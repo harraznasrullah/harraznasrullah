@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/harraznasrullah/harraznasrullah/blob/main/wallpaper.jpeg?raw=true');]{x0000}$}
+
+- 🔭 I’m currently working on Machine Learning Project
+- 🌱 I’m currently learning AI Stuffs
+- 💬 Ask me about Anything
+- 📫 How to reach me: Email me!!! : harraznsrllh@gmail.com
+- ⚡ Fun fact: I like to eat and sleep
+
+
 <!--
 **harraznasrullah/harraznasrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
