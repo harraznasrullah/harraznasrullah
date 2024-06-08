@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/7n4p6t.mp4"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/9e/99/77/9e9977f938d1c2f09efa33aefb7b6fd6.gif"  />
 
 ###
 
@@ -37,11 +37,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ```math
